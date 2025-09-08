@@ -39,8 +39,7 @@ xlabel("k"); ylabel("|Y(k)|");
 title("FFT Magnitude Spectrum (Built-in)");
 
 # OUTPUT: 
-<img width="1920" height="1200" alt="Screenshot 2025-09-01 160007 (2)" src="https://github.com/user-attachments/assets/de40880a-b782-42de-965c-7842404c1967" />
-
+<img width="1027" height="761" alt="image" src="https://github.com/user-attachments/assets/1e53d2e4-7a5b-4a67-8b5b-15fbfcea5622" />
 
 
 # RESULT: 
