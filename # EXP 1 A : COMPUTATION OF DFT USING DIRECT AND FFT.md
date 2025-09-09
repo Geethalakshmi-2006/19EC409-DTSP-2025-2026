@@ -45,3 +45,4 @@ title("FFT Magnitude Spectrum (Built-in)");
 
 
 # RESULT: 
+         Thus we have obtained DFT and FFT of a given sequence in SCILAB.
