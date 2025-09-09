@@ -7,6 +7,7 @@ To Obtain DFT and FFT of a given sequence in SCILAB.
 PC installed with SCILAB. 
 
 # PROGRAM: 
+~~~
 clc;
 clear;
 x = [1 2 3 4];
@@ -37,6 +38,7 @@ subplot(3,1,3);
 plot2d3(n,abs(Y));
 xlabel("k"); ylabel("|Y(k)|");
 title("FFT Magnitude Spectrum (Built-in)");
+~~~
 
 # OUTPUT: 
 <img width="1027" height="761" alt="image" src="https://github.com/user-attachments/assets/1e53d2e4-7a5b-4a67-8b5b-15fbfcea5622" />
