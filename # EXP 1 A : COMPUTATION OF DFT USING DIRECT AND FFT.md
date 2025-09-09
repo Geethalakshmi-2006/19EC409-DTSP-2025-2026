@@ -44,5 +44,6 @@ title("FFT Magnitude Spectrum (Built-in)");
 <img width="1027" height="761" alt="image" src="https://github.com/user-attachments/assets/1e53d2e4-7a5b-4a67-8b5b-15fbfcea5622" />
 
 
-# RESULT: 
-         Thus we have obtained DFT and FFT of a given sequence in SCILAB.
+# RESULT:
+Thus we have obtained DFT and FFT of a given sequence in SCILAB.
+         
