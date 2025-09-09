@@ -1,4 +1,4 @@
-<img width="1918" height="1127" alt="image" src="https://github.com/user-attachments/assets/7afda487-b4ac-477b-bc99-65767f5f7636" /># EXP 1 : Linear and Circular Convolution
+
 
 # AIM: 
 
